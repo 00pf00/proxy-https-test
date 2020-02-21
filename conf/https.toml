@@ -1,0 +1,9 @@
+[https]
+    [tls]
+        key=""
+        cert=""
+    [addr]
+        kubelet=""
+[log]
+    dir=""
+    file=".log"
